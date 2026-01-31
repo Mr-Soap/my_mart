@@ -1,0 +1,14 @@
+<users>
+  <user>
+    <id>1</id>
+    <username>admin</username>
+    <password>12345</password>
+    <role>admin</role>
+  </user>
+  <user>
+    <id>2</id>
+    <username>sopian</username>
+    <password>abcde</password>
+    <role>user</role>
+  </user>
+</users>

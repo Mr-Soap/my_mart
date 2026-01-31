@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<products>
+  <product>
+    <name>Black Sunglasses</name>
+    <price>80000</price>
+    <category>Fashion</category>
+    <description>Sunglass hitam elegan dari ELITE, menghadirkan gaya modern dengan perlindungan UV maksimal. Ringan, nyaman dipakai seharian, cocok untuk segala aktivitas luar ruangan.</description>
+    <quantity>20</quantity>
+    <imagePath>assets/product/glasses.png</imagePath>
+    <specs>
+      <spec>
+        <key>Warna</key>
+        <value>Hitam</value>
+      </spec>
+      <spec>
+        <key>Material</key>
+        <value>Plastik UV</value>
+      </spec>
+      <spec>
+        <key>Berat</key>
+        <value>50g</value>
+      </spec>
+      <spec>
+        <key>UV Protection</key>
+        <value>Ya</value>
+      </spec>
+    </specs>
+  </product>
+
+  <product>
+    <name>Black Hoodie</name>
+    <price>120000</price>
+    <category>Fashion</category>
+    <description>Black hoodie dari brand Elite hadir dengan karakter kuat melalui desain minimalis yang memancarkan kesan premium dan eksklusif. Dibuat dari bahan berkualitas tinggi yang lembut, hangat, dan nyaman dipakai sepanjang hari, hoodie ini menawarkan kenyamanan tanpa mengorbankan gaya. Warna hitam pekat memberikan nuansa misterius, tegas, dan timeless yang mudah dipadukan dengan berbagai outfit. Dengan potongan modern yang pas di badan, hoodie ini cocok untuk gaya streetwear hingga casual luxury. Pilihan sempurna bagi mereka yang ingin tampil sederhana, percaya diri, dan berkelas.</description>
+    <quantity>30</quantity>
+    <imagePath>assets/product/hoodie.png</imagePath>
+    <specs>
+      <spec>
+        <key>Warna</key>
+        <value>Hitam</value>
+      </spec>
+      <spec>
+        <key>Material</key>
+        <value>Cotton 80%, Polyester 20%</value>
+      </spec>
+      <spec>
+        <key>Ukuran</key>
+        <value>S, M, L, XL</value>
+      </spec>
+      <spec>
+        <key>Berat</key>
+        <value>500g</value>
+      </spec>
+    </specs>
+  </product>
+
+  <product>
+    <name>Sepatu Elite</name>
+    <price>200000</price>
+    <category>Fashion</category>
+    <description>Sepatu pantofel Elite warna hitam menghadirkan perpaduan sempurna antara desain elegan dan kesan profesional yang berkelas. Dibuat dengan material berkualitas tinggi, sepatu ini menawarkan tampilan mengilap yang rapi sekaligus nyaman digunakan dalam aktivitas formal maupun semi-formal. Warna hitam klasik memberikan kesan tegas, eksklusif, dan mudah dipadukan dengan berbagai busana resmi. Detail pengerjaan yang presisi mencerminkan standar elite pada setiap langkah. Pilihan ideal bagi mereka yang ingin tampil percaya diri, rapi, dan berwibawa.</description>
+    <quantity>30</quantity>
+    <imagePath>assets/product/shoe.png</imagePath>
+    <specs>
+      <spec>
+        <key>Warna</key>
+        <value>Hitam</value>
+      </spec>
+      <spec>
+        <key>Material</key>
+        <value>Kulit sintetis</value>
+      </spec>
+      <spec>
+        <key>Ukuran</key>
+        <value>39, 40, 41, 42</value>
+      </spec>
+      <spec>
+        <key>Berat</key>
+        <value>700g</value>
+      </spec>
+    </specs>
+  </product>
+
+  <product>
+    <name>Black Iwatch</name>
+    <price>500000</price>
+    <category>Fashion</category>
+    <description>Smart watch dari IWATCH menghadirkan teknologi modern dengan desain elegan yang menunjang gaya hidup aktif dan profesional. Dilengkapi fitur pemantauan kesehatan, notifikasi pintar, serta pelacakan aktivitas harian, jam ini membantu Anda tetap terhubung dan produktif sepanjang waktu. Layar responsif dengan tampilan jernih memberikan pengalaman penggunaan yang nyaman dan intuitif. Desainnya yang stylish dan minimalis cocok dipadukan dengan gaya kasual maupun formal. Pilihan tepat bagi mereka yang mengutamakan fungsi, inovasi, dan tampilan berkelas dalam satu perangkat.</description>
+    <quantity>6</quantity>
+    <imagePath>assets/product/watches.png</imagePath>
+    <specs>
+      <spec>
+        <key>Warna</key>
+        <value>Hitam</value>
+      </spec>
+      <spec>
+        <key>Material</key>
+        <value>Aluminium</value>
+      </spec>
+      <spec>
+        <key>Fitur</key>
+        <value>Heart Rate, Notifikasi, Activity Tracker</value>
+      </spec>
+      <spec>
+        <key>Berat</key>
+        <value>50g</value>
+      </spec>
+    </specs>
+  </product>
+</products>
